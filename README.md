@@ -6,3 +6,7 @@ Sutraction
 Multiplication
 Devision
 Modulus
+square root
+power
+half
+clear the values
