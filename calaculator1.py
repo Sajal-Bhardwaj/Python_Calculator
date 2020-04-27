@@ -228,6 +228,4 @@ button_Factorial.grid(row=5,column=4)
 button_Pi.grid(row=2,column=1)
 button_Faranheit_C.grid(row=6,column=2)
 
-
-
 enter.mainloop()
